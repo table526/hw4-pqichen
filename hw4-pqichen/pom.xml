@@ -105,4 +105,8 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:git:git@github.com:table526/hw4-pqichen.git</connection>
+		<developerConnection>scm:git:git@github.com:table526/hw4-pqichen.git</developerConnection>
+	</scm>
 </project>
