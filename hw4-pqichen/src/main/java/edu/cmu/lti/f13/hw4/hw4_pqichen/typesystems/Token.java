@@ -11,8 +11,8 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** 
- * Updated by JCasGen Fri Oct 11 01:58:03 EDT 2013
- * XML source: /home/diwang/ur-workspace/hw4-pqichen/src/main/resources/descriptors/typesystems/VectorSpaceTypes.xml
+ * Updated by JCasGen Tue Oct 22 22:51:08 EDT 2013
+ * XML source: /home/pan/git/hw4-pqichen/hw4-pqichen/src/main/resources/descriptors/typesystems/VectorSpaceTypes.xml
  * @generated */
 public class Token extends Annotation {
   /** @generated
@@ -97,5 +97,3 @@ public class Token extends Annotation {
       jcasType.jcas.throwFeatMissing("frequency", "edu.cmu.lti.f13.hw4.hw4_pqichen.typesystems.Token");
     jcasType.ll_cas.ll_setIntValue(addr, ((Token_Type)jcasType).casFeatCode_frequency, v);}    
   }
-
-    

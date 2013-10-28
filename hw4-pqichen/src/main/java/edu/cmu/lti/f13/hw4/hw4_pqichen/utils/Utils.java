@@ -23,7 +23,7 @@ public class Utils {
 		Collection<T> myCollection = JCasUtil.select(list, classType);
 		/*
 		 * for(T element:myCollection){ System.out.println(.getText()); }
-		 */
+     */
 
 		return new ArrayList<T>(myCollection);
 	}

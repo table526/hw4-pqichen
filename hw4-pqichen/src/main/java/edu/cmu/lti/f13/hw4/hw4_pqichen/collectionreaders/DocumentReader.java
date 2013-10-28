@@ -1,3 +1,15 @@
+/**
+ * Qichen Pan, AndrewId: pqichen
+ * 
+ * Filename: DocumentReader.java
+ * 
+ * In this file, each document will be read to generate appropriate doc cas into UIMA pipeline.
+ * 
+ * In this specific case, documents consist of only one sentence.
+ * 
+ * Qid represents query Id, Rel represents relevance. Our cas also stores doc's text.
+ * 
+ */
 package edu.cmu.lti.f13.hw4.hw4_pqichen.collectionreaders;
 
 import java.util.ArrayList;
